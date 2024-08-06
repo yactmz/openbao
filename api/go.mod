@@ -37,6 +37,6 @@ require (
 	golang.org/x/sys v0.20.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 )
-replace  github.com/hashicorp/vault/api => github.com/yactmz/openbao/api v1.12.2
+replace  github.com/hashicorp/vault/api => github.com/yactmz/openbao/api v0
 
 retract v2.0.0
